@@ -66,7 +66,15 @@ Time to turn signal into strategy 📈
 
 ## 📅 Project Timeline
 
-| Date           | Milestone | Description |
-| -------------- | --------- | ----------- |
-| July 2025      | Start     | ...         |
-| September 2025 | End       | ...         |
+| Date           | Milestone           | Description                                 |
+|----------------|---------------------|---------------------------------------------|
+| July 11 2025   | Project Kickoff     | Intro to Trilemma Foundation & the project  |
+| July 18 2025   | Weekly Sync         | TBD                |
+| July 25 2025   | Weekly Sync         | TBD                           |
+| August 1 2025  | Weekly Sync         | TBD                  |
+| August 8 2025  | Weekly Sync         | TBD             |
+| August 15 2025 | Weekly Sync         | TBD                  |
+| August 22 2025 | Weekly Sync         | TBD                          |
+| August 29 2025 | Weekly Sync         | TBD                           |
+| September 5 2025 | Weekly Sync       | TBD               |
+| September 12 2025 | Last Meeting     | TBD                                         |
