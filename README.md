@@ -73,9 +73,9 @@ Time to turn signal into strategy 📈
 | July 18 2025      | Weekly Sync     | EDA with onchain data                      | Break down global analyses to regimes (e.g halvings)     |
 | July 25 2025      | Weekly Sync     | Skipped Meeting (students requested)       | N/A   |
 | August 1 2025     | Weekly Sync     | Missed Meeting (student no-show)           | N/A   |
-| August 8 2025     | Weekly Sync     | Onchain & macro EDA. Vanilla accumulation models | Focus on deriving useful insights instead first (black box features wont be useful) |
-| August 15 2025    | Weekly Sync     | TBD                                        | ...    |
+| August 8 2025     | Weekly Sync     | Onchain & macro EDA. Vanilla accumulation models | Focus on deriving useful insights first (black box features wont be useful) |
+| August 15 2025    | Weekly Sync     | Further EDA presented, correlation/ cointegration analysis  | Dive deeper into the EDA (mitigate spurious results), use framework to design models |
 | August 22 2025    | Weekly Sync     | TBD                                        | ...    |
-| August 29 2025    | Weekly Sync     | TBD                                        | ... |
+| August 29 2025    | Model Review    | Scheduled to review a model designed using the framework  | ... |
 | September 5 2025  | Weekly Sync     | TBD                                        | ...  |
 | September 12 2025 | Last Meeting    | TBD                                        | ...   |
